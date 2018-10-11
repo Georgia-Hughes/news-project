@@ -1,0 +1,14 @@
+article{
+    display: table;
+    margin: 0 auto;
+}
+
+section{
+    display: table-cell;
+    padding: 3em;
+}
+
+h2{
+    margin-left: 5.5em;
+    margin-bottom: -0.5em;
+}

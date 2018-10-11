@@ -1,0 +1,9 @@
+article{
+    display: table;
+    margin: 0 auto;
+}
+
+section{
+    display: table-cell;
+    padding: 3em;
+}
